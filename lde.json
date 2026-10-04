@@ -1,5 +1,7 @@
 {
 	"name": "t",
-	"version": "0.1.0",
+	"version": "1.0.0",
+	"description": "The only table library you will need",
+	"authors": ["sysfab"],
 	"dependencies": {}
 }
